@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tiker: MyString
+  name: MyString
+  last_price: 9.99
+
+two:
+  tiker: MyString
+  name: MyString
+  last_price: 9.99

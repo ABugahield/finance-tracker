@@ -1,4 +1,5 @@
 // This is a manifest file that'll be compiled into application.js, which will include all the files
+
 // listed below.
 //
 // Any JavaScript/Coffee file within this directory, lib/assets/javascripts, or any plugin's
@@ -11,8 +12,9 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require turbolinks
 //= require jquery
+//= require turbolinks
 //= require twitter/bootstrap
 //= require activestorage
-//= require turbolinks
 //= require_tree .
